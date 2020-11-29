@@ -17,3 +17,12 @@
     padding: 0 15px;
     background-color: red;
 }
+
+.off {
+  display: none;
+}
+
+.on {
+  display: block;
+}
+
