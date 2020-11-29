@@ -1,9 +1,10 @@
 .wrap{
     width: 100%;
+    max-width: 1100px;
+    margin: auto;
 }
 .nav_pannel{
     max-width: 300px;
-    width: 100%;
     background-color: grey;
     margin: 0;
     padding: 25px;
@@ -11,10 +12,9 @@
 
 }
 .container{
-    max-width: 800px;
-    width: 100%;
-    margin: auto;
-    padding: 0 15px;
+    width: 848px;
+    float: right;
+    padding: 0;
     background-color: red;
 }
 
